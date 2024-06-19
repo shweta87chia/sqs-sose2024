@@ -57,4 +57,3 @@ This is a robust web application built with Flask, featuring comprehensive testi
 ## Additional Information
 
 For more details on how to use this application and contribute, please refer to the [documentation](docs/).
-
